@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index ",
+    "dev": " nodemon server"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
